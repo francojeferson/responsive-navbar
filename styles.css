@@ -63,7 +63,7 @@ body {
 }
 
 .nav-links-mobile {
-  display: none;
+  display: flex;
   flex-direction: column;
   text-align: center;
   gap: 1.2rem;
