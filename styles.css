@@ -53,4 +53,7 @@ body {
 }
 
 @media (max-width: 768px) {
+  .nav-links-desktop {
+    display: none;
+  }
 }
