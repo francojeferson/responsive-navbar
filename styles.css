@@ -33,3 +33,7 @@ body {
   padding: 0;
   display: flex;
 }
+
+.nav-links-desktop li {
+  padding: 0 15px;
+}
