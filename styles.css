@@ -6,3 +6,9 @@ html {
   height: 100%;
   box-sizing: border-box;
 }
+
+body {
+  background-image: url('img/bg.webp');
+  background-position: center;
+  background-size: cover;
+}
