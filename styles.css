@@ -63,7 +63,7 @@ body {
 }
 
 .nav-links-mobile {
-  display: flex;
+  display: none;
   flex-direction: column;
   text-align: center;
   gap: 1.2rem;
@@ -84,7 +84,7 @@ body {
   border: none;
   color: #fff;
   cursor: pointer;
-  /* display: none; */
+  display: none;
 }
 
 .close {
