@@ -52,6 +52,16 @@ body {
   display: none;
 }
 
+.hamburger,
+.close {
+  font-size: 24px;
+  background: none;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  display: none;
+}
+
 @media (max-width: 768px) {
   html {
     font-size: 12px;
